@@ -3,4 +3,5 @@ is
 not
 asasdayod
 for
-me
+mesd
+git is not bad for me

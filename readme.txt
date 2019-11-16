@@ -1,6 +1,6 @@
 this
 is
 not
-god
+asasdayod
 for
 me
